@@ -5,7 +5,7 @@ const BOT_TOKEN = process.env['BOT_TOKEN'];
 /**
  * The name used for the virus role.
  */
-const ROLE_NAME = "COVID-19";
+const ROLE_NAME = "HUGHES WASH YOUR HANDZ COVID-19";
 
 /**
  * The color of the role.
